@@ -1,0 +1,11 @@
+# Ignorar compilados de Java
+*.class
+
+# Carpetas comunes de salida
+/bin/
+/out/
+/target/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
